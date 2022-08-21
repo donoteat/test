@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1bce12c
 license: GPL-2.0
+name: test
 type: industry
+url: https://github.com/donoteat/test
 version: 6
